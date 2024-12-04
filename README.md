@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i am a Student @ BMSCE<br>🌱 I’m currently learning OOPs in Java,<br>      DBMS through MySQL,<br>     DSA in C.<br>
+🔭 i am a Student @ BMSCE<br>🌱 I’m currently learning OOPs in Java,<br>      DBMS through MySQL,<br>     DSA in C.<br>     DSA in Java.<br>
 
 
 # 💻 Tech Stack:
